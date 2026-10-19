@@ -19,7 +19,7 @@ install requierments
 pip install cryptography psutil
 
 and run it
-python3 sol_enc.py
+python3 solenc.py
 
 Menu Options:
 ​Encrypt:
